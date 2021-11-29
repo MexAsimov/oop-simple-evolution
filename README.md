@@ -7,6 +7,8 @@
 
 Two seperated worlds created to show process of simple evolution. Animals (blue squares) are randomly moving over the map and eating Plants (green squares). If animal doesn't gather enough energy from plants his energy runs to zero and animal die. If more than one animal meet in one position, two of them start reproducing process losing some energy to give a birth to a new animal spawning in this square with genotype based on parents. Simulation ends when all animals die.
 
+Additional user can configure parameters of simulation in json file before start and start, pause or change speed of evolution process in any time.
+
 ## Used Technologies
 - Swing
 - AWT
